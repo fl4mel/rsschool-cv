@@ -1,1 +1,1 @@
-# rsschool-cv
+https://fl4mel.github.io/rsschool-cv/
