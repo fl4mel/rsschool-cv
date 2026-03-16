@@ -20,7 +20,7 @@ Attending a Front-end courses at The Rolling Scopes School.
 
 ## Soft Skills
 * Teamwork
-* Rsponsibility
+* Reponsibility
 * Quick learning
 
 ## Languages
