@@ -1,1 +1,1 @@
-https://fl4mel.github.io/rsschool-cv/cv.md
+https://fl4mel.github.io/rsschool-cv/index.html
